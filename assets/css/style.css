@@ -168,14 +168,16 @@ h2 span {
 	width: 250px;
 	height: 200px;
 	margin-bottom: 45px;
+	margin-left: 30px;
 	text-align: center;
 }
 .portfolio p {
 	color: white;
+	width:250px;
 	background-color: #4aaaa5;
 	font-size: 20px;
 	padding:15px;
-margin: 70px;
+	margin: 132px 0px;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 }
 form{
@@ -224,7 +226,7 @@ input[type= "text"] {
 }
 footer {
 	width: 100%;
-	height:80px;
+	height:95px;
 	border-top: solid 7px #4aaaa5;
 	text-align: center;
 	clear:both;
